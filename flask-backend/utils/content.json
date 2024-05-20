@@ -1,0 +1,4158 @@
+[
+  {
+    "id": 1,
+    "name": "Самосвал",
+    "models": [
+      {
+        "name": "БелАЗ 75306 Weichai",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 71,
+        "mdm_model_id": 0,
+        "meta_model_id": 71,
+        "objects": [
+          {
+            "mdm_object_id": 24224,
+            "name": "1861",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 240,
+                "source_object_id": "863921034584881"
+              }
+            ],
+            "mdm_object_uuid": "696fe5ff-3b94-11ed-98cb-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 162
+          },
+          {
+            "mdm_object_id": 24225,
+            "name": "1862",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 128,
+                "source_object_id": "863921034584857"
+              }
+            ],
+            "mdm_object_uuid": "b7c5dd51-3990-11ed-98cb-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 163
+          },
+          {
+            "mdm_object_id": 24282,
+            "name": "1866",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 130,
+                "source_object_id": "863921034632748"
+              }
+            ],
+            "mdm_object_uuid": "9c1d1990-1fa9-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 164
+          },
+          {
+            "mdm_object_id": 24441,
+            "name": "1867",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 164,
+                "source_object_id": "863921038970466"
+              }
+            ],
+            "mdm_object_uuid": "e61c0ceb-2ff3-11ed-98cb-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 165
+          },
+          {
+            "mdm_object_id": 24501,
+            "name": "1870",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 165,
+                "source_object_id": "863921036248428"
+              }
+            ],
+            "mdm_object_uuid": "d01e7398-4743-11ed-98ce-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 166
+          },
+          {
+            "mdm_object_id": 24261,
+            "name": "1871",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 243,
+                "source_object_id": "863921034707094"
+              }
+            ],
+            "mdm_object_uuid": "9c1d198f-1fa9-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 167
+          },
+          {
+            "mdm_object_id": 24502,
+            "name": "1877",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 245,
+                "source_object_id": "863921036936782"
+              }
+            ],
+            "mdm_object_uuid": "d01e73f4-4743-11ed-98ce-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 168
+          },
+          {
+            "mdm_object_id": 24503,
+            "name": "1883",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 238,
+                "source_object_id": "863921038980853"
+              }
+            ],
+            "mdm_object_uuid": "d01e742c-4743-11ed-98ce-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 169
+          },
+          {
+            "mdm_object_id": 24704,
+            "name": "1888",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 242,
+                "source_object_id": "863921039015386"
+              }
+            ],
+            "mdm_object_uuid": "c85e162d-638d-11ed-98d0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 170
+          },
+          {
+            "mdm_object_id": 24724,
+            "name": "1907",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 166,
+                "source_object_id": "862311060043096"
+              }
+            ],
+            "mdm_object_uuid": "ec6bada8-712b-11ed-98d7-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 171
+          },
+          {
+            "mdm_object_id": 24705,
+            "name": "1908",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 241,
+                "source_object_id": "863921038987809"
+              }
+            ],
+            "mdm_object_uuid": "c85e17f1-638d-11ed-98d0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 172
+          },
+          {
+            "mdm_object_id": 24725,
+            "name": "1909",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 244,
+                "source_object_id": "863921039002251"
+              }
+            ],
+            "mdm_object_uuid": "3caf2cc7-79cd-11ed-98d7-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 173
+          },
+          {
+            "mdm_object_id": 24706,
+            "name": "1910",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 129,
+                "source_object_id": "863921039014926"
+              }
+            ],
+            "mdm_object_uuid": "c85e1817-638d-11ed-98d0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 174
+          },
+          {
+            "mdm_object_id": 25361,
+            "name": "1967",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 78,
+                "source_object_id": "863921038985282"
+              }
+            ],
+            "mdm_object_uuid": "4c303334-d7da-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 235
+          },
+          {
+            "mdm_object_id": 25362,
+            "name": "1968",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 1,
+                "source_object_id": "862311060037445"
+              }
+            ],
+            "mdm_object_uuid": "4c303564-d7da-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 234
+          },
+          {
+            "mdm_object_id": 25363,
+            "name": "1969",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 79,
+                "source_object_id": "862311060042619"
+              }
+            ],
+            "mdm_object_uuid": "4c3036bc-d7da-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 236
+          },
+          {
+            "mdm_object_id": 26761,
+            "name": "2121",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 774,
+                "source_object_id": "864857030732893"
+              }
+            ],
+            "mdm_object_uuid": "84b54927-bf2b-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1237
+          },
+          {
+            "mdm_object_id": 26762,
+            "name": "2122",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 775,
+                "source_object_id": "864857030712275"
+              }
+            ],
+            "mdm_object_uuid": "923c086a-bf2c-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1238
+          },
+          {
+            "mdm_object_id": 26763,
+            "name": "2123",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 776,
+                "source_object_id": "864857030774978"
+              }
+            ],
+            "mdm_object_uuid": "ca350664-bf2c-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1239
+          },
+          {
+            "mdm_object_id": 26764,
+            "name": "2129",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 777,
+                "source_object_id": "864857030788689"
+              }
+            ],
+            "mdm_object_uuid": "2361c387-bf2d-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1240
+          },
+          {
+            "mdm_object_id": 26765,
+            "name": "2134",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 758,
+                "source_object_id": "862311062492200"
+              }
+            ],
+            "mdm_object_uuid": "5bf847d3-bf2d-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1221
+          },
+          {
+            "mdm_object_id": 26766,
+            "name": "2135",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 756,
+                "source_object_id": "862311062440795"
+              }
+            ],
+            "mdm_object_uuid": "a4b984b7-bf2d-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1219
+          },
+          {
+            "mdm_object_id": 26767,
+            "name": "2136",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 778,
+                "source_object_id": "864857030758153"
+              }
+            ],
+            "mdm_object_uuid": "aa49c9fc-bf2e-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1241
+          },
+          {
+            "mdm_object_id": 26768,
+            "name": "2137",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 779,
+                "source_object_id": "864857030741944"
+              }
+            ],
+            "mdm_object_uuid": "e6a5de12-bf2e-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1242
+          }
+        ]
+      },
+      {
+        "name": "БелАЗ 75131 Б GalileoSky",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 3,
+        "mdm_model_id": 61,
+        "meta_model_id": 3,
+        "objects": [
+          {
+            "mdm_object_id": 30,
+            "name": "0086",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 109,
+                "source_object_id": "863921037211961"
+              }
+            ],
+            "mdm_object_uuid": "6536e616-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 39
+          },
+          {
+            "mdm_object_id": 34,
+            "name": "0087",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 88,
+                "source_object_id": "862311062515448"
+              }
+            ],
+            "mdm_object_uuid": "7d411477-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 120
+          },
+          {
+            "mdm_object_id": 35,
+            "name": "0088",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 113,
+                "source_object_id": "863921037190181"
+              }
+            ],
+            "mdm_object_uuid": "7d41147b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 121
+          },
+          {
+            "mdm_object_id": 31,
+            "name": "0090",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 58,
+                "source_object_id": "864857030722878"
+              }
+            ],
+            "mdm_object_uuid": "6536e622-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 122
+          },
+          {
+            "mdm_object_id": 36,
+            "name": "0091",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 43,
+                "source_object_id": "863921036937285"
+              }
+            ],
+            "mdm_object_uuid": "7d411496-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 123
+          },
+          {
+            "mdm_object_id": 108,
+            "name": "0092",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 75,
+                "source_object_id": "863921037187526"
+              }
+            ],
+            "mdm_object_uuid": "83397e12-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 124
+          },
+          {
+            "mdm_object_id": 109,
+            "name": "0093",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 32,
+                "source_object_id": "863921037180851"
+              }
+            ],
+            "mdm_object_uuid": "89344982-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 40
+          },
+          {
+            "mdm_object_id": 37,
+            "name": "0094",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 23,
+                "source_object_id": "863921037213850"
+              }
+            ],
+            "mdm_object_uuid": "773cbf27-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 125
+          },
+          {
+            "mdm_object_id": 106,
+            "name": "0112",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 725,
+                "source_object_id": "862311062458094"
+              }
+            ],
+            "mdm_object_uuid": "6536e634-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1190
+          },
+          {
+            "mdm_object_id": 25,
+            "name": "0113",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 100,
+                "source_object_id": "863921038982768"
+              }
+            ],
+            "mdm_object_uuid": "6536e635-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 41
+          },
+          {
+            "mdm_object_id": 69,
+            "name": "0114",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 33,
+                "source_object_id": "862311062492424"
+              }
+            ],
+            "mdm_object_uuid": "8f363cac-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 42
+          },
+          {
+            "mdm_object_id": 84,
+            "name": "0115",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 8,
+                "source_object_id": "863921037218347"
+              }
+            ],
+            "mdm_object_uuid": "953cf499-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 126
+          },
+          {
+            "mdm_object_id": 33,
+            "name": "0116",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 70,
+                "source_object_id": "862311062505571"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84af-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 43
+          },
+          {
+            "mdm_object_id": 70,
+            "name": "0117",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 68,
+                "source_object_id": "862311062457328"
+              }
+            ],
+            "mdm_object_uuid": "a13750b2-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 44
+          },
+          {
+            "mdm_object_id": 71,
+            "name": "0118",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 74,
+                "source_object_id": "863921037167767"
+              }
+            ],
+            "mdm_object_uuid": "6536e63a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 45
+          },
+          {
+            "mdm_object_id": 1425,
+            "name": "0119",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 73,
+                "source_object_id": "863921037190165"
+              }
+            ],
+            "mdm_object_uuid": "7d411490-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 46
+          },
+          {
+            "mdm_object_id": 1387,
+            "name": "0120",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 85,
+                "source_object_id": "863921037191809"
+              }
+            ],
+            "mdm_object_uuid": "7d411499-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 127
+          },
+          {
+            "mdm_object_id": 1522,
+            "name": "0121",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 7,
+                "source_object_id": "863921037187492"
+              }
+            ],
+            "mdm_object_uuid": "7d4114a9-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 128
+          },
+          {
+            "mdm_object_id": 1521,
+            "name": "0122",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 101,
+                "source_object_id": "863921037167817"
+              }
+            ],
+            "mdm_object_uuid": "7d4114ad-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 47
+          },
+          {
+            "mdm_object_id": 1541,
+            "name": "0123",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 111,
+                "source_object_id": "863921037180414"
+              }
+            ],
+            "mdm_object_uuid": "7d4114b1-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 129
+          },
+          {
+            "mdm_object_id": 1542,
+            "name": "0124",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 99,
+                "source_object_id": "863921036941329"
+              }
+            ],
+            "mdm_object_uuid": "7d4114b4-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 130
+          },
+          {
+            "mdm_object_id": 1564,
+            "name": "0125",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 26,
+                "source_object_id": "863921037190157"
+              }
+            ],
+            "mdm_object_uuid": "7d4114bd-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 131
+          },
+          {
+            "mdm_object_id": 1565,
+            "name": "0126",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 2,
+                "source_object_id": "863921037218842"
+              }
+            ],
+            "mdm_object_uuid": "7d4114bc-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 132
+          },
+          {
+            "mdm_object_id": 22677,
+            "name": "0128",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 119,
+                "source_object_id": "863921037218354"
+              }
+            ],
+            "mdm_object_uuid": "953cf48d-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 134
+          },
+          {
+            "mdm_object_id": 22678,
+            "name": "0129",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 82,
+                "source_object_id": "863921037213868"
+              }
+            ],
+            "mdm_object_uuid": "89344974-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 48
+          },
+          {
+            "mdm_object_id": 22680,
+            "name": "0131",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 65,
+                "source_object_id": "862311062464241"
+              }
+            ],
+            "mdm_object_uuid": "83397de1-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 136
+          },
+          {
+            "mdm_object_id": 26501,
+            "name": "0132",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 707,
+                "source_object_id": "862311065780692"
+              }
+            ],
+            "mdm_object_uuid": "ef6c3287-9a0e-11ee-98e2-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1172
+          },
+          {
+            "mdm_object_id": 26502,
+            "name": "0133",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 708,
+                "source_object_id": "862311065812636"
+              }
+            ],
+            "mdm_object_uuid": "a039cc0f-9a2e-11ee-98e2-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1173
+          },
+          {
+            "mdm_object_id": 26503,
+            "name": "0134",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 709,
+                "source_object_id": "862311065768143"
+              }
+            ],
+            "mdm_object_uuid": "f21d9c3a-9a2e-11ee-98e2-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1174
+          },
+          {
+            "mdm_object_id": 22676,
+            "name": "127",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 22,
+                "source_object_id": "863921039000651"
+              }
+            ],
+            "mdm_object_uuid": "953cf496-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 133
+          },
+          {
+            "mdm_object_id": 22679,
+            "name": "130",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 87,
+                "source_object_id": "863921037213785"
+              }
+            ],
+            "mdm_object_uuid": "83397dfb-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 135
+          },
+          {
+            "mdm_object_id": 27261,
+            "name": "135",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 833,
+                "source_object_id": "864857030724635"
+              }
+            ],
+            "mdm_object_uuid": "924c178a-f55b-11ee-98ee-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1296
+          },
+          {
+            "mdm_object_id": 27262,
+            "name": "136",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 837,
+                "source_object_id": "864857030735763"
+              }
+            ],
+            "mdm_object_uuid": "5c7cad60-f55c-11ee-98ee-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "353c0012e2d289c8",
+                "id": 112
+              }
+            ],
+            "id": 1300
+          },
+          {
+            "mdm_object_id": 26523,
+            "name": "3023",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 723,
+                "source_object_id": "862311062473119"
+              }
+            ],
+            "mdm_object_uuid": "06dd2a16-9ecd-11ee-98e3-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1188
+          },
+          {
+            "mdm_object_id": 26581,
+            "name": "3028",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 731,
+                "source_object_id": "862311062434947"
+              }
+            ],
+            "mdm_object_uuid": "0e4b3616-b2e1-11ee-98e4-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1196
+          },
+          {
+            "mdm_object_id": 26582,
+            "name": "3051",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 781,
+                "source_object_id": "864857030748170"
+              }
+            ],
+            "mdm_object_uuid": "8272c077-b40a-11ee-98e4-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1244
+          },
+          {
+            "mdm_object_id": 25286,
+            "name": "3052",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 610,
+                "source_object_id": "863921038974393"
+              }
+            ],
+            "mdm_object_uuid": "278dbcc3-cda3-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1105
+          },
+          {
+            "mdm_object_id": 26521,
+            "name": "3387",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 720,
+                "source_object_id": "862311065699363"
+              }
+            ],
+            "mdm_object_uuid": "5822df84-9ec5-11ee-98e3-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1185
+          },
+          {
+            "mdm_object_id": 26522,
+            "name": "3388",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 719,
+                "source_object_id": "862311065708040"
+              }
+            ],
+            "mdm_object_uuid": "fdebe3d2-9ece-11ee-98e3-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1184
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "3390",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 760,
+                "source_object_id": "862311062478845"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1223
+          },
+          {
+            "mdm_object_id": 26602,
+            "name": "3407",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 752,
+                "source_object_id": "862311063943896"
+              }
+            ],
+            "mdm_object_uuid": "d6e9abeb-b40b-11ee-98e4-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1215
+          },
+          {
+            "mdm_object_id": 25003,
+            "name": "3575",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 613,
+                "source_object_id": "863921039014504"
+              }
+            ],
+            "mdm_object_uuid": "6adbf148-a440-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1108
+          },
+          {
+            "mdm_object_id": 25004,
+            "name": "3579",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 614,
+                "source_object_id": "863921039003085"
+              }
+            ],
+            "mdm_object_uuid": "6adbf1e0-a440-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1109
+          },
+          {
+            "mdm_object_id": 25001,
+            "name": "3591",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 615,
+                "source_object_id": "863921038986900"
+              }
+            ],
+            "mdm_object_uuid": "6adbef5e-a440-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1110
+          },
+          {
+            "mdm_object_id": 25002,
+            "name": "3593",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 616,
+                "source_object_id": "863921038987064"
+              }
+            ],
+            "mdm_object_uuid": "6adbf092-a440-11ed-98d9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1111
+          },
+          {
+            "mdm_object_id": 26116,
+            "name": "4372",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 611,
+                "source_object_id": "862311062518954"
+              }
+            ],
+            "mdm_object_uuid": "a71cb893-49e8-11ee-98dd-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1106
+          },
+          {
+            "mdm_object_id": 26115,
+            "name": "4421",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 612,
+                "source_object_id": "862311064059825"
+              }
+            ],
+            "mdm_object_uuid": "afc06c56-4539-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1107
+          }
+        ]
+      },
+      {
+        "name": "БелАЗ 75306 Cummins",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 1,
+        "mdm_model_id": 62,
+        "meta_model_id": 1,
+        "objects": [
+          {
+            "mdm_object_id": 2,
+            "name": "1000",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 600,
+                "source_object_id": "863921039001642"
+              }
+            ],
+            "mdm_object_uuid": "773cbeff-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1095
+          },
+          {
+            "mdm_object_id": 92,
+            "name": "1001",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 282,
+                "source_object_id": "862311062505811"
+              }
+            ],
+            "mdm_object_uuid": "773cbf06-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 273
+          },
+          {
+            "mdm_object_id": 21,
+            "name": "1004",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 283,
+                "source_object_id": "862311062446594"
+              }
+            ],
+            "mdm_object_uuid": "773cbf08-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 274
+          },
+          {
+            "mdm_object_id": 23,
+            "name": "1012",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 276,
+                "source_object_id": "862311062531932"
+              }
+            ],
+            "mdm_object_uuid": "773cbf0a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 267
+          },
+          {
+            "mdm_object_id": 8,
+            "name": "1035",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 47,
+                "source_object_id": "862311062519234"
+              }
+            ],
+            "mdm_object_uuid": "ad31ac95-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3ff1fa5a65b68b2c",
+                "id": 11
+              }
+            ],
+            "id": 12
+          },
+          {
+            "mdm_object_id": 7,
+            "name": "1036",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 131,
+                "source_object_id": "863921039014983"
+              }
+            ],
+            "mdm_object_uuid": "6536e63f-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 5
+          },
+          {
+            "mdm_object_id": 9,
+            "name": "1037",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 84,
+                "source_object_id": "863921036921958"
+              }
+            ],
+            "mdm_object_uuid": "6536e640-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 3
+          },
+          {
+            "mdm_object_id": 10,
+            "name": "1038",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 108,
+                "source_object_id": "863921036924788"
+              }
+            ],
+            "mdm_object_uuid": "6536e644-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 15
+          },
+          {
+            "mdm_object_id": 3,
+            "name": "1039",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 132,
+                "source_object_id": "862311062517022"
+              }
+            ],
+            "mdm_object_uuid": "6536e646-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 6
+          },
+          {
+            "mdm_object_id": 4,
+            "name": "1040",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 86,
+                "source_object_id": "863921038975218"
+              }
+            ],
+            "mdm_object_uuid": "6536e649-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 7
+          },
+          {
+            "mdm_object_id": 11,
+            "name": "1041",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 6,
+                "source_object_id": "863921038975606"
+              }
+            ],
+            "mdm_object_uuid": "6536e64c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 13
+          },
+          {
+            "mdm_object_id": 66,
+            "name": "1042",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 76,
+                "source_object_id": "863921036937228"
+              }
+            ],
+            "mdm_object_uuid": "6536e60b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 2
+          },
+          {
+            "mdm_object_id": 12,
+            "name": "1043",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 9,
+                "source_object_id": "863921038981836"
+              }
+            ],
+            "mdm_object_uuid": "6536e64f-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "387dcb31e3b05603",
+                "id": 16
+              }
+            ],
+            "id": 17
+          },
+          {
+            "mdm_object_id": 5,
+            "name": "1044",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 31,
+                "source_object_id": "863921036943101"
+              }
+            ],
+            "mdm_object_uuid": "b933302a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 8
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "1044 TEST",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 750,
+                "source_object_id": "862311062519374"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1213
+          },
+          {
+            "mdm_object_id": 83,
+            "name": "1052",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 277,
+                "source_object_id": "862311062456726"
+              }
+            ],
+            "mdm_object_uuid": "773cbf0b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 268
+          },
+          {
+            "mdm_object_id": 202,
+            "name": "1157",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 278,
+                "source_object_id": "862311062515166"
+              }
+            ],
+            "mdm_object_uuid": "713f912f-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 269
+          },
+          {
+            "mdm_object_id": 204,
+            "name": "1158",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 603,
+                "source_object_id": "862311062457419"
+              }
+            ],
+            "mdm_object_uuid": "713f9130-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1098
+          },
+          {
+            "mdm_object_id": 201,
+            "name": "1159",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 604,
+                "source_object_id": "862311062478324"
+              }
+            ],
+            "mdm_object_uuid": "713f9132-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1099
+          },
+          {
+            "mdm_object_id": 146,
+            "name": "1163",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 279,
+                "source_object_id": "862311062437569"
+              }
+            ],
+            "mdm_object_uuid": "713f9136-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 270
+          },
+          {
+            "mdm_object_id": 361,
+            "name": "1254",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 605,
+                "source_object_id": "862311062513443"
+              }
+            ],
+            "mdm_object_uuid": "8934496e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1100
+          },
+          {
+            "mdm_object_id": 581,
+            "name": "1269",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 280,
+                "source_object_id": "862311062498272"
+              }
+            ],
+            "mdm_object_uuid": "6b3b3bb9-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 271
+          },
+          {
+            "mdm_object_id": 1001,
+            "name": "1297",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 606,
+                "source_object_id": "862311062505829"
+              }
+            ],
+            "mdm_object_uuid": "773cbf28-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1101
+          },
+          {
+            "mdm_object_id": 1002,
+            "name": "1298",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 607,
+                "source_object_id": "862311062514912"
+              }
+            ],
+            "mdm_object_uuid": "773cbf17-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1102
+          },
+          {
+            "mdm_object_id": 1003,
+            "name": "1299",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 259,
+                "source_object_id": "862311062501414"
+              }
+            ],
+            "mdm_object_uuid": "773cbf3f-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 277
+          },
+          {
+            "mdm_object_id": 1004,
+            "name": "1300",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 622,
+                "source_object_id": "862311062459647"
+              }
+            ],
+            "mdm_object_uuid": "773cbf47-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1116
+          },
+          {
+            "mdm_object_id": 1041,
+            "name": "1312",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 608,
+                "source_object_id": "862311063925489"
+              }
+            ],
+            "mdm_object_uuid": "773cbf49-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1103
+          },
+          {
+            "mdm_object_id": 1042,
+            "name": "1315",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 609,
+                "source_object_id": "862311062497209"
+              }
+            ],
+            "mdm_object_uuid": "773cbf4d-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1104
+          },
+          {
+            "mdm_object_id": 1182,
+            "name": "1328",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 620,
+                "source_object_id": "862311062459456"
+              }
+            ],
+            "mdm_object_uuid": "7d411486-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1114
+          },
+          {
+            "mdm_object_id": 1183,
+            "name": "1336",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 281,
+                "source_object_id": "862311062437502"
+              }
+            ],
+            "mdm_object_uuid": "7d411489-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 272
+          },
+          {
+            "mdm_object_id": 1401,
+            "name": "1344",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 275,
+                "source_object_id": "862311062498397"
+              }
+            ],
+            "mdm_object_uuid": "713f90e9-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 266
+          },
+          {
+            "mdm_object_id": 1361,
+            "name": "1345",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 135,
+                "source_object_id": "863921037174706"
+              }
+            ],
+            "mdm_object_uuid": "7d411497-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 16
+          },
+          {
+            "mdm_object_id": 1342,
+            "name": "1347",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 250,
+                "source_object_id": "863921038970870"
+              }
+            ],
+            "mdm_object_uuid": "a137508b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 138
+          },
+          {
+            "mdm_object_id": 1381,
+            "name": "1349",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 13,
+                "source_object_id": "863921036943275"
+              }
+            ],
+            "mdm_object_uuid": "7d411492-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 9
+          },
+          {
+            "mdm_object_id": 1382,
+            "name": "1373",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 97,
+                "source_object_id": "863921036935982"
+              }
+            ],
+            "mdm_object_uuid": "7d4114ac-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1
+          },
+          {
+            "mdm_object_id": 1383,
+            "name": "1374",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 15,
+                "source_object_id": "863921036936832"
+              }
+            ],
+            "mdm_object_uuid": "7d41149a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 10
+          },
+          {
+            "mdm_object_id": 1563,
+            "name": "1380",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 29,
+                "source_object_id": "864857030779662"
+              }
+            ],
+            "mdm_object_uuid": "83397e0c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 105
+          },
+          {
+            "mdm_object_id": 1581,
+            "name": "1381",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 14,
+                "source_object_id": "863921039001451"
+              }
+            ],
+            "mdm_object_uuid": "83397e0e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 11
+          },
+          {
+            "mdm_object_id": 1384,
+            "name": "1385",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 53,
+                "source_object_id": "863921039015337"
+              }
+            ],
+            "mdm_object_uuid": "7d4114b6-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 4
+          },
+          {
+            "mdm_object_id": 1385,
+            "name": "1386",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 48,
+                "source_object_id": "863921036921933"
+              }
+            ],
+            "mdm_object_uuid": "8f363cb7-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 14
+          },
+          {
+            "mdm_object_id": 1661,
+            "name": "1395",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 44,
+                "source_object_id": "863921036943143"
+              }
+            ],
+            "mdm_object_uuid": "83397e13-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 106
+          },
+          {
+            "mdm_object_id": 1662,
+            "name": "1403",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 126,
+                "source_object_id": "863921039002111"
+              }
+            ],
+            "mdm_object_uuid": "7d4114ca-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "359657150772329",
+                "id": 19
+              }
+            ],
+            "id": 152
+          },
+          {
+            "mdm_object_id": 1663,
+            "name": "1404",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 118,
+                "source_object_id": "863921039014744"
+              }
+            ],
+            "mdm_object_uuid": "713f90ec-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "399b3f1188dad5f3",
+                "id": 22
+              }
+            ],
+            "id": 86
+          },
+          {
+            "mdm_object_id": 1664,
+            "name": "1409",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 107,
+                "source_object_id": "863921038974245"
+              }
+            ],
+            "mdm_object_uuid": "713f90e5-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "32dd90e4d085b999",
+                "id": 12
+              }
+            ],
+            "id": 153
+          },
+          {
+            "mdm_object_id": 1747,
+            "name": "1425",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 256,
+                "source_object_id": "863921036931759"
+              }
+            ],
+            "mdm_object_uuid": "83397e03-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 154
+          },
+          {
+            "mdm_object_id": 1748,
+            "name": "1431",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 155,
+                "source_object_id": "863921036934159"
+              }
+            ],
+            "mdm_object_uuid": "7d4114af-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 237
+          },
+          {
+            "mdm_object_id": 1751,
+            "name": "1434",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 168,
+                "source_object_id": "863921038972355"
+              }
+            ],
+            "mdm_object_uuid": "83397deb-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 238
+          },
+          {
+            "mdm_object_id": 21456,
+            "name": "1435",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 172,
+                "source_object_id": "863921034706864"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84aa-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 239
+          },
+          {
+            "mdm_object_id": 1753,
+            "name": "1436",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 115,
+                "source_object_id": "863921036923913"
+              }
+            ],
+            "mdm_object_uuid": "83397df3-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 155
+          },
+          {
+            "mdm_object_id": 21457,
+            "name": "1437",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 269,
+                "source_object_id": "862311060042957"
+              }
+            ],
+            "mdm_object_uuid": "893449bd-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 156
+          },
+          {
+            "mdm_object_id": 21458,
+            "name": "1440",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 173,
+                "source_object_id": "863921038975614"
+              }
+            ],
+            "mdm_object_uuid": "b9333018-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 240
+          },
+          {
+            "mdm_object_id": 21459,
+            "name": "1442",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 267,
+                "source_object_id": "863921038984863"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84b0-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 157
+          },
+          {
+            "mdm_object_id": 21460,
+            "name": "1443",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 252,
+                "source_object_id": "863921038999069"
+              }
+            ],
+            "mdm_object_uuid": "b933302b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 158
+          },
+          {
+            "mdm_object_id": 21461,
+            "name": "1444",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 291,
+                "source_object_id": "863921038985217"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84b2-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 159
+          },
+          {
+            "mdm_object_id": 21462,
+            "name": "1460",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 248,
+                "source_object_id": "862311060042882"
+              }
+            ],
+            "mdm_object_uuid": "b933302c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 160
+          },
+          {
+            "mdm_object_id": 21182,
+            "name": "1490",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 117,
+                "source_object_id": "863921038984400"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84bf-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 107
+          },
+          {
+            "mdm_object_id": 21189,
+            "name": "1491",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 42,
+                "source_object_id": "863921037167734"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84bc-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 108
+          },
+          {
+            "mdm_object_id": 21184,
+            "name": "1492",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 80,
+                "source_object_id": "863921034704968"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84c6-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3f18fc8346fed7b0",
+                "id": 104
+              }
+            ],
+            "id": 109
+          },
+          {
+            "mdm_object_id": 21183,
+            "name": "1493",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 197,
+                "source_object_id": "862311062532054"
+              }
+            ],
+            "mdm_object_uuid": "5f39b803-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 110
+          },
+          {
+            "mdm_object_id": 21185,
+            "name": "1494",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 51,
+                "source_object_id": "863921038989482"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84c2-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 111
+          },
+          {
+            "mdm_object_id": 21190,
+            "name": "1496",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 54,
+                "source_object_id": "863921036311572"
+              },
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 598,
+                "source_object_id": "862311062478464"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84be-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 112
+          },
+          {
+            "mdm_object_id": 21186,
+            "name": "1497",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 24,
+                "source_object_id": "863921036248576"
+              }
+            ],
+            "mdm_object_uuid": "b3313d3a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 113
+          },
+          {
+            "mdm_object_id": 21187,
+            "name": "1498",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 27,
+                "source_object_id": "863921034706898"
+              }
+            ],
+            "mdm_object_uuid": "a72fb9f2-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 114
+          },
+          {
+            "mdm_object_id": 21191,
+            "name": "1499",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 266,
+                "source_object_id": "863921038987890"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84b8-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 115
+          },
+          {
+            "mdm_object_id": 21192,
+            "name": "1501",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 174,
+                "source_object_id": "862311060043492"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84b7-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 241
+          },
+          {
+            "mdm_object_id": 21193,
+            "name": "1502",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 576,
+                "source_object_id": "862311062505258"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84c4-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 116
+          },
+          {
+            "mdm_object_id": 21194,
+            "name": "1503",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 5,
+                "source_object_id": "863921034585680"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84ba-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 117
+          },
+          {
+            "mdm_object_id": 21188,
+            "name": "1504",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 249,
+                "source_object_id": "863921038970227"
+              }
+            ],
+            "mdm_object_uuid": "a1375059-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 161
+          },
+          {
+            "mdm_object_id": 21195,
+            "name": "1505",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 186,
+                "source_object_id": "863921036246646"
+              }
+            ],
+            "mdm_object_uuid": "9b3c84c0-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 118
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "7777",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 785,
+                "source_object_id": "863921036950221"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1248
+          },
+          {
+            "mdm_object_id": 1,
+            "name": "991",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 274,
+                "source_object_id": "862311062532369"
+              }
+            ],
+            "mdm_object_uuid": "713f9128-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 265
+          }
+        ]
+      },
+      {
+        "name": "Komatsu HD 785-7 Б GalileoSky",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 2,
+        "mdm_model_id": 1,
+        "meta_model_id": 2,
+        "objects": [
+          {
+            "mdm_object_id": 26770,
+            "name": "Komatsu HD785 1",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 757,
+                "source_object_id": "863921039001626"
+              }
+            ],
+            "mdm_object_uuid": "381108fe-c093-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1220
+          },
+          {
+            "mdm_object_id": 26947,
+            "name": "Komatsu HD785 10",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 807,
+                "source_object_id": "863921038975127"
+              }
+            ],
+            "mdm_object_uuid": "8d365aa1-d6a7-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1270
+          },
+          {
+            "mdm_object_id": 73,
+            "name": "Komatsu HD785 100",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 152,
+                "source_object_id": "863921038974369"
+              }
+            ],
+            "mdm_object_uuid": "8f363c90-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 18
+          },
+          {
+            "mdm_object_id": 38,
+            "name": "Komatsu HD785 101",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 21,
+                "source_object_id": "862311061351621"
+              }
+            ],
+            "mdm_object_uuid": "8f363cbe-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 19
+          },
+          {
+            "mdm_object_id": 74,
+            "name": "Komatsu HD785 102",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 12,
+                "source_object_id": "863921039001790"
+              }
+            ],
+            "mdm_object_uuid": "953cf48c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 20
+          },
+          {
+            "mdm_object_id": 39,
+            "name": "Komatsu HD785 103",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 3,
+                "source_object_id": "862311062457252"
+              }
+            ],
+            "mdm_object_uuid": "8f363cb0-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 21
+          },
+          {
+            "mdm_object_id": 75,
+            "name": "Komatsu HD785 104",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 64,
+                "source_object_id": "863921039000859"
+              }
+            ],
+            "mdm_object_uuid": "953cf451-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 22
+          },
+          {
+            "mdm_object_id": 40,
+            "name": "Komatsu HD785 105",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 25,
+                "source_object_id": "863921036924796"
+              }
+            ],
+            "mdm_object_uuid": "953cf44c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 23
+          },
+          {
+            "mdm_object_id": 94,
+            "name": "Komatsu HD785 106",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 34,
+                "source_object_id": "863921036922071"
+              }
+            ],
+            "mdm_object_uuid": "953cf454-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 24
+          },
+          {
+            "mdm_object_id": 41,
+            "name": "Komatsu HD785 107",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 83,
+                "source_object_id": "863921036937210"
+              }
+            ],
+            "mdm_object_uuid": "10771ae7-d5b5-11ec-98c0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 25
+          },
+          {
+            "mdm_object_id": 42,
+            "name": "Komatsu HD785 108",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 55,
+                "source_object_id": "863921034710320"
+              }
+            ],
+            "mdm_object_uuid": "6536e62e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 26
+          },
+          {
+            "mdm_object_id": 85,
+            "name": "Komatsu HD785 109",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 52,
+                "source_object_id": "863921036937103"
+              }
+            ],
+            "mdm_object_uuid": "6536e630-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 27
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "Komatsu HD785 11",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 767,
+                "source_object_id": "864857030723132"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1230
+          },
+          {
+            "mdm_object_id": 95,
+            "name": "Komatsu HD785 110",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 56,
+                "source_object_id": "863921038974948"
+              }
+            ],
+            "mdm_object_uuid": "6536e632-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 28
+          },
+          {
+            "mdm_object_id": 96,
+            "name": "Komatsu HD785 111",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 77,
+                "source_object_id": "863921036923897"
+              }
+            ],
+            "mdm_object_uuid": "6536e633-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 29
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "Komatsu HD785 12",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 769,
+                "source_object_id": "863921039002665"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1232
+          },
+          {
+            "mdm_object_id": 26776,
+            "name": "Komatsu HD785 13",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 783,
+                "source_object_id": "863921038989466"
+              }
+            ],
+            "mdm_object_uuid": "2673e8cb-c095-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1246
+          },
+          {
+            "mdm_object_id": 673,
+            "name": "Komatsu HD785 227",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 39,
+                "source_object_id": "863921036937350"
+              }
+            ],
+            "mdm_object_uuid": "0973a508-d5b5-11ec-98c0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 30
+          },
+          {
+            "mdm_object_id": 674,
+            "name": "Komatsu HD785 228",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 90,
+                "source_object_id": "863921036924002"
+              }
+            ],
+            "mdm_object_uuid": "3c83b2b1-d5b5-11ec-98c0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 31
+          },
+          {
+            "mdm_object_id": 675,
+            "name": "Komatsu HD785 229",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 30,
+                "source_object_id": "863921036946302"
+              }
+            ],
+            "mdm_object_uuid": "8f363cae-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 32
+          },
+          {
+            "mdm_object_id": 901,
+            "name": "Komatsu HD785 236",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 96,
+                "source_object_id": "863921036950270"
+              }
+            ],
+            "mdm_object_uuid": "773cbf13-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 33
+          },
+          {
+            "mdm_object_id": 902,
+            "name": "Komatsu HD785 237",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 46,
+                "source_object_id": "863921038987908"
+              }
+            ],
+            "mdm_object_uuid": "953cf48e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 34
+          },
+          {
+            "mdm_object_id": 921,
+            "name": "Komatsu HD785 240",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 110,
+                "source_object_id": "862311066965888"
+              }
+            ],
+            "mdm_object_uuid": "a72fb9b2-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 35
+          },
+          {
+            "mdm_object_id": 961,
+            "name": "Komatsu HD785 241",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 138,
+                "source_object_id": "863921036922048"
+              }
+            ],
+            "mdm_object_uuid": "8f363c8a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 36
+          },
+          {
+            "mdm_object_id": 962,
+            "name": "Komatsu HD785 244",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 136,
+                "source_object_id": "863921036935966"
+              }
+            ],
+            "mdm_object_uuid": "773cbf3e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 37
+          },
+          {
+            "mdm_object_id": 963,
+            "name": "Komatsu HD785 245",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 45,
+                "source_object_id": "863921036943036"
+              }
+            ],
+            "mdm_object_uuid": "8f363c8b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 38
+          },
+          {
+            "mdm_object_id": 26944,
+            "name": "Komatsu HD785 3",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 808,
+                "source_object_id": "863921038987593"
+              }
+            ],
+            "mdm_object_uuid": "3a6f363f-d6a8-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1271
+          },
+          {
+            "mdm_object_id": 26771,
+            "name": "Komatsu HD785 4",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 759,
+                "source_object_id": "863921038980465"
+              }
+            ],
+            "mdm_object_uuid": "1099a591-c094-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1222
+          },
+          {
+            "mdm_object_id": 23921,
+            "name": "Komatsu HD785 539",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 246,
+                "source_object_id": "863921036245531"
+              }
+            ],
+            "mdm_object_uuid": "4f45cfb2-2316-11ed-98c9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 139
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "Komatsu HD785 6",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 768,
+                "source_object_id": "863921038975333"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1231
+          },
+          {
+            "mdm_object_id": 23922,
+            "name": "Komatsu HD785 699",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 255,
+                "source_object_id": "863921034721392"
+              }
+            ],
+            "mdm_object_uuid": "4f45cfb6-2316-11ed-98c9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 140
+          },
+          {
+            "mdm_object_id": 0,
+            "name": "Komatsu HD785 7",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 813,
+                "source_object_id": "863921038987130"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1276
+          },
+          {
+            "mdm_object_id": 24221,
+            "name": "Komatsu HD785 777",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 253,
+                "source_object_id": "863921036950197"
+              }
+            ],
+            "mdm_object_uuid": "e62ff63f-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 141
+          },
+          {
+            "mdm_object_id": 24222,
+            "name": "Komatsu HD785 782",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 263,
+                "source_object_id": "862311062518848"
+              }
+            ],
+            "mdm_object_uuid": "e62ff641-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 142
+          },
+          {
+            "mdm_object_id": 24223,
+            "name": "Komatsu HD785 789",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 104,
+                "source_object_id": "863921036923871"
+              }
+            ],
+            "mdm_object_uuid": "e62ff643-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 146
+          },
+          {
+            "mdm_object_id": 24081,
+            "name": "Komatsu HD785 803",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 106,
+                "source_object_id": "863921037167791"
+              }
+            ],
+            "mdm_object_uuid": "e62ff611-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 144
+          },
+          {
+            "mdm_object_id": 24082,
+            "name": "Komatsu HD785 808",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 258,
+                "source_object_id": "863921034583693"
+              }
+            ],
+            "mdm_object_uuid": "e62ff613-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 147
+          },
+          {
+            "mdm_object_id": 24083,
+            "name": "Komatsu HD785 834",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 261,
+                "source_object_id": "862311062514409"
+              }
+            ],
+            "mdm_object_uuid": "e62ff615-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 148
+          },
+          {
+            "mdm_object_id": 24084,
+            "name": "Komatsu HD785 835",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 257,
+                "source_object_id": "863921037180786"
+              }
+            ],
+            "mdm_object_uuid": "e62ff617-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 149
+          },
+          {
+            "mdm_object_id": 24125,
+            "name": "Komatsu HD785 839",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 247,
+                "source_object_id": "863921039003051"
+              }
+            ],
+            "mdm_object_uuid": "e62ff633-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 150
+          },
+          {
+            "mdm_object_id": 24126,
+            "name": "Komatsu HD785 840",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 264,
+                "source_object_id": "863921037211938"
+              }
+            ],
+            "mdm_object_uuid": "e62ff635-1fcf-11ed-98c8-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 151
+          },
+          {
+            "mdm_object_id": 26773,
+            "name": "Komatsu HD785 9",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 784,
+                "source_object_id": "864857030789893"
+              }
+            ],
+            "mdm_object_uuid": "86d0516a-c094-11ee-98ec-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1247
+          }
+        ]
+      },
+      {
+        "name": "Komatsu HD 1500-8 GalileoSky",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 33,
+        "mdm_model_id": 981,
+        "meta_model_id": 33,
+        "objects": [
+          {
+            "mdm_object_id": 23236,
+            "name": "Komatsu HD1500 29",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 573,
+                "source_object_id": "862311063993859"
+              }
+            ],
+            "mdm_object_uuid": "a137509f-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 175
+          },
+          {
+            "mdm_object_id": 23237,
+            "name": "Komatsu HD1500 30",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 270,
+                "source_object_id": "862311062445760"
+              }
+            ],
+            "mdm_object_uuid": "a137509e-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 176
+          },
+          {
+            "mdm_object_id": 23238,
+            "name": "Komatsu HD1500 31",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 254,
+                "source_object_id": "863921037180885"
+              }
+            ],
+            "mdm_object_uuid": "a137509d-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 177
+          },
+          {
+            "mdm_object_id": 23239,
+            "name": "Komatsu HD1500 32",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 251,
+                "source_object_id": "863921037181388"
+              }
+            ],
+            "mdm_object_uuid": "a137509c-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 178
+          },
+          {
+            "mdm_object_id": 23240,
+            "name": "Komatsu HD1500 33",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 265,
+                "source_object_id": "863921037190116"
+              }
+            ],
+            "mdm_object_uuid": "a137509b-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 179
+          },
+          {
+            "mdm_object_id": 23241,
+            "name": "Komatsu HD1500 38",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 103,
+                "source_object_id": "863921037218412"
+              }
+            ],
+            "mdm_object_uuid": "a137507a-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 180
+          }
+        ]
+      },
+      {
+        "name": "Komatsu HM 400-3",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 76,
+        "mdm_model_id": 0,
+        "meta_model_id": 76,
+        "objects": [
+          {
+            "mdm_object_id": 23339,
+            "name": "52",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 179,
+                "source_object_id": "863921037187518"
+              }
+            ],
+            "mdm_object_uuid": "a72fb9b4-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 246
+          },
+          {
+            "mdm_object_id": 23340,
+            "name": "53",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 180,
+                "source_object_id": "863921034582083"
+              }
+            ],
+            "mdm_object_uuid": "a72fb9b5-90c4-11ec-98b9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 247
+          },
+          {
+            "mdm_object_id": 23536,
+            "name": "54",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 181,
+                "source_object_id": "863921034679061"
+              }
+            ],
+            "mdm_object_uuid": "5770e44e-2316-11ed-98c9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 248
+          },
+          {
+            "mdm_object_id": 23417,
+            "name": "56",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 182,
+                "source_object_id": "862311067009652"
+              }
+            ],
+            "mdm_object_uuid": "10771ae6-d5b5-11ec-98c0-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "123456789",
+                "id": 103
+              }
+            ],
+            "id": 249
+          },
+          {
+            "mdm_object_id": 23716,
+            "name": "57",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 183,
+                "source_object_id": "862311062505076"
+              }
+            ],
+            "mdm_object_uuid": "5770e44c-2316-11ed-98c9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 250
+          },
+          {
+            "mdm_object_id": 23537,
+            "name": "62",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 184,
+                "source_object_id": "863921034666514"
+              }
+            ],
+            "mdm_object_uuid": "4f45cfb4-2316-11ed-98c9-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 251
+          }
+        ]
+      },
+      {
+        "name": "Sany SET 150",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 84,
+        "mdm_model_id": 0,
+        "meta_model_id": 84,
+        "objects": [
+          {
+            "mdm_object_id": 0,
+            "name": "111",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 628,
+                "source_object_id": "862311062473135"
+              }
+            ],
+            "mdm_object_uuid": "00000000-0000-0000-0000-000000000000",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1122
+          },
+          {
+            "mdm_object_id": 26061,
+            "name": "901",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 292,
+                "source_object_id": "862311064079070"
+              }
+            ],
+            "mdm_object_uuid": "a87122a3-3bee-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 288
+          },
+          {
+            "mdm_object_id": 26062,
+            "name": "902",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 293,
+                "source_object_id": "862311062473895"
+              }
+            ],
+            "mdm_object_uuid": "2a0d5a43-3bef-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "382a6a624093bf3b",
+                "id": 63
+              }
+            ],
+            "id": 289
+          },
+          {
+            "mdm_object_id": 26063,
+            "name": "903",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 287,
+                "source_object_id": "862311062505662"
+              }
+            ],
+            "mdm_object_uuid": "1754ebc6-3bf1-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3a539715d9576590",
+                "id": 25
+              }
+            ],
+            "id": 284
+          },
+          {
+            "mdm_object_id": 26064,
+            "name": "904",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 288,
+                "source_object_id": "862311062457823"
+              }
+            ],
+            "mdm_object_uuid": "1754ece8-3bf1-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3f55e888af46c9c4",
+                "id": 26
+              }
+            ],
+            "id": 285
+          },
+          {
+            "mdm_object_id": 26065,
+            "name": "905",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 289,
+                "source_object_id": "862311062531429"
+              }
+            ],
+            "mdm_object_uuid": "1754ee1c-3bf1-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "370c690f7673f6fc",
+                "id": 24
+              }
+            ],
+            "id": 283
+          },
+          {
+            "mdm_object_id": 26066,
+            "name": "906",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 198,
+                "source_object_id": "862311062478837"
+              }
+            ],
+            "mdm_object_uuid": "1754ef50-3bf1-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 290
+          },
+          {
+            "mdm_object_id": 26067,
+            "name": "907",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 290,
+                "source_object_id": "862311062457112"
+              }
+            ],
+            "mdm_object_uuid": "1754f072-3bf1-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "30087382f8f824a1",
+                "id": 23
+              }
+            ],
+            "id": 282
+          },
+          {
+            "mdm_object_id": 26081,
+            "name": "908",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 572,
+                "source_object_id": "862311063179798"
+              }
+            ],
+            "mdm_object_uuid": "0b54b4c9-414c-11ee-98db-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3f230dc55007f7e2",
+                "id": 66
+              }
+            ],
+            "id": 1041
+          },
+          {
+            "mdm_object_id": 26106,
+            "name": "909",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 570,
+                "source_object_id": "862311062505316"
+              }
+            ],
+            "mdm_object_uuid": "f6d2de22-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "37d5df645d9fbad9",
+                "id": 64
+              }
+            ],
+            "id": 1039
+          },
+          {
+            "mdm_object_id": 26107,
+            "name": "910",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 571,
+                "source_object_id": "862311064032475"
+              }
+            ],
+            "mdm_object_uuid": "f6d2df56-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "33462c4e21de9953",
+                "id": 65
+              }
+            ],
+            "id": 1040
+          },
+          {
+            "mdm_object_id": 26108,
+            "name": "911",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 635,
+                "source_object_id": "862311064023144"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e078-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "31aaab49e73cfbff",
+                "id": 111
+              }
+            ],
+            "id": 1129
+          },
+          {
+            "mdm_object_id": 26109,
+            "name": "912",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 630,
+                "source_object_id": "862311062302680"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e1ac-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1124
+          },
+          {
+            "mdm_object_id": 26110,
+            "name": "913",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 637,
+                "source_object_id": "862311062447840"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e2ce-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "313429a3a806c70a",
+                "id": 116
+              }
+            ],
+            "id": 1131
+          },
+          {
+            "mdm_object_id": 26111,
+            "name": "914",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 631,
+                "source_object_id": "862311062445273"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e3f0-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3e28cf7309bf5f56",
+                "id": 117
+              }
+            ],
+            "id": 1125
+          },
+          {
+            "mdm_object_id": 26112,
+            "name": "915",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 636,
+                "source_object_id": "862311062517998"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e512-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1130
+          },
+          {
+            "mdm_object_id": 26113,
+            "name": "916",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 632,
+                "source_object_id": "862311062498611"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e634-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3644f4234e3e3b4f",
+                "id": 119
+              }
+            ],
+            "id": 1126
+          },
+          {
+            "mdm_object_id": 26114,
+            "name": "917",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 633,
+                "source_object_id": "862311062457880"
+              }
+            ],
+            "mdm_object_uuid": "f6d2e756-44d5-11ee-98dc-00155d5fc801",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1127
+          },
+          {
+            "mdm_object_id": 26841,
+            "name": "918",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 761,
+                "source_object_id": "864857030712309"
+              }
+            ],
+            "mdm_object_uuid": "65297184-c86c-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [],
+            "id": 1224
+          },
+          {
+            "mdm_object_id": 26861,
+            "name": "919",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 762,
+                "source_object_id": "864857030761892"
+              }
+            ],
+            "mdm_object_uuid": "6a00f19e-c989-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3fb8c52a899d12cd",
+                "id": 114
+              }
+            ],
+            "id": 1225
+          },
+          {
+            "mdm_object_id": 26862,
+            "name": "928",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 764,
+                "source_object_id": "862311063912289"
+              }
+            ],
+            "mdm_object_uuid": "6a00f995-c989-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3be95a1df1bcf7c0",
+                "id": 115
+              }
+            ],
+            "id": 1227
+          },
+          {
+            "mdm_object_id": 26863,
+            "name": "929",
+            "object_devices": [
+              {
+                "source": {
+                  "id": 1,
+                  "name": "Galileo"
+                },
+                "id": 763,
+                "source_object_id": "864857030796807"
+              }
+            ],
+            "mdm_object_uuid": "6ab153ca-c989-11ee-98ed-bc2411df91be",
+            "is_test": false,
+            "object_equipment": [
+              {
+                "imei": "3c4b2b8d4b4170cf",
+                "id": 113
+              }
+            ],
+            "id": 1226
+          }
+        ]
+      },
+      {
+        "name": "Поливомоечная машина (БелАЗ 7555)",
+        "target_table": {
+          "id": 1,
+          "name": "trucks",
+          "description": "Самосвалы"
+        },
+        "id": 179,
+        "mdm_model_id": 0,
+        "meta_model_id": 179,
+        "objects": []
+      }
+    ]
+  }
+]

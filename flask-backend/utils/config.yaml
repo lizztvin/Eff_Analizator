@@ -1,0 +1,8 @@
+db:
+  localhost:
+    port: 5433
+    host: "localhost"
+    database: "kursach"
+    user: "postgres"
+    password: "qwerty123"
+    connect_str: "postgresql"
